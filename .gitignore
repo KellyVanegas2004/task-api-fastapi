@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env
+.env.*
+pip-wheel-metadata/
+
+# Docker
+*.log
+docker-data/
+postgres-data/
+
+# Alembic
+alembic/__pycache__/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test / coverage 
+.coverage
+htmlcov/
+pytest_cache/
