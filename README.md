@@ -20,6 +20,8 @@ El objetivo del proyecto es demostrar una solución funcional end-to-end, segura
 ---
 
 ## 📁 Estructura del proyecto
+
+```text
 rest_project/
 ├── alembic/
 │ ├── versions/
